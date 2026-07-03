@@ -16,6 +16,6 @@ $name = $_POST['username'];
 <h1>Welcome <?php echo $name; ?></h1>
 
 <p>You have successfully logged in.</p>
-
+<h1> Hello Test</h1>h1>
 </body>
 </html>
